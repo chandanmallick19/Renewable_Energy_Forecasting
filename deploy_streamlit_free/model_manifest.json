@@ -38,9 +38,9 @@
       "wind_power": {
         "model": "Random Forest",
         "metrics": {
-          "MAE": 10.3861,
-          "RMSE": 21.0619,
-          "R2": 0.9834
+          "MAE": 10.3803,
+          "RMSE": 21.1264,
+          "R2": 0.9833
         }
       }
     },
@@ -56,8 +56,8 @@
       "wind_power": {
         "model": "Random Forest",
         "metrics": {
-          "MAE": 6.4991,
-          "RMSE": 14.666,
+          "MAE": 6.4986,
+          "RMSE": 14.6571,
           "R2": 0.9684
         }
       }
@@ -74,9 +74,9 @@
       "wind_power": {
         "model": "Random Forest",
         "metrics": {
-          "MAE": 7.1375,
-          "RMSE": 16.1308,
-          "R2": 0.9598
+          "MAE": 7.1231,
+          "RMSE": 16.1013,
+          "R2": 0.9599
         }
       }
     },
@@ -92,9 +92,9 @@
       "wind_power": {
         "model": "Random Forest",
         "metrics": {
-          "MAE": 7.1127,
-          "RMSE": 27.8201,
-          "R2": 0.9105
+          "MAE": 7.1176,
+          "RMSE": 27.7347,
+          "R2": 0.9111
         }
       }
     }
